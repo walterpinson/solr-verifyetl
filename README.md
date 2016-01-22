@@ -96,7 +96,7 @@ Install node.js and npm.  You can achieve this by doing one of the following:
 #### OSX
 ```bash
 $ cd <root-directory> #can really be any directory
-$ sudo npm install github:PeopleFluent/rms-utility-checksolr
+$ sudo npm install github:walterpinson/solr-verifyetl
 ```
 #### Windows
 This would be the same as the OSX installation with the exception that there is no sudo command.  
