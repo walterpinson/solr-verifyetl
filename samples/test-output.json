@@ -1,0 +1,12 @@
+{
+	"coreName": "Client_MyClient",
+	"documentIdentifierName": "myIdentifier",
+	"createdOn": "2015-03-25T12:00:00",
+	"elapsedTime": 1111222,
+	"totalProcessed": 10,
+	"missingDocumentIds": [
+		87783,
+		241203,
+		180015
+	]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "solr-verifyetl",
+  "version": "1.0.0",
+  "description": "Command-line utility to verify a successful Solr ETL process.  Individually verify that documents were loaded into Solr.",
+  "author": "Walter Pinson <walter@walterpinson.com>",
+  "bin": {
+    "checksolr": "app.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/walterpinson/solr-verifyetl"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "should": "^8.0.2",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0"
+  }
+}

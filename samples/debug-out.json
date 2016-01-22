@@ -1,0 +1,17 @@
+{
+	"server": "http://localhost:8983",
+	"coreName": "client2_candidateProfile",
+	"documentIdentifierName": "id",
+	"createdOn": "2016-01-03T01:06:50.774Z",
+	"elapsedTime": 8290,
+	"totalProcessed": 10,
+	"missingDocumentIds": [
+		87783,
+		12345,
+		54321,
+		241203,
+		119879,
+		67890,
+		180015
+	]
+}

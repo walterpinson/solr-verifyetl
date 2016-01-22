@@ -1,0 +1,17 @@
+{
+    "server": "http://localhost:8983",
+    "core": "client2_candidateProfile",
+    "identifierName": "id",
+	"identifiers": [
+        222222,
+		12345,
+		67890,
+		54321,
+		87783,
+		241203,
+		180015,
+		555555,
+		888888,
+		119879 
+	]
+}
